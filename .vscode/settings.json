@@ -23,6 +23,7 @@
         "streambuf": "cpp",
         "cstdio": "cpp",
         "algorithm": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "cmath": "cpp"
     }
 }
